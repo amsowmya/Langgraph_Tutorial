@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langgraph
+langgraph-supervisor
+langchain-groq
+langchain-openai
+duckduckgo-search
+python-dotenv
+ipykernel
